@@ -1,2 +1,2 @@
 # Reddit-Text-to-Speech
-Reddit Text to Speech Bro
+Reddit Text to Speech
